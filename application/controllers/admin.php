@@ -51,6 +51,18 @@ class admin extends CI_Controller {
         $this->render($view_array);
     }
     
+    public function registration(){
+        
+    }
+    
+    public function login(){
+        
+    }
+    
+    public function logout(){
+        
+    }
+    
     public function render($view_array){
         //print_r($view_array);
         
